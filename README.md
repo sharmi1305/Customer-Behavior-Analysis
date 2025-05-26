@@ -1,10 +1,10 @@
-DataScience_Project_ Customer Behavior Analysis
+# DataScience_Project_ Customer Behavior Analysis
 
 
 Providing a data-based solution to evaluate customer behavior and improve the customer experience for ShopEasy's marketing strategy.
 
 
-Problem Statement :
+# Problem Statement :
 ShopEasy, an online retail business, is experiencing a decline in customer engagement and conversion rates, despite investing heavily in marketing campaigns. The company has observed:
 
 
