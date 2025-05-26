@@ -1,4 +1,4 @@
-DataScience_Project_ CustomerBehaviorAnalysis
+DataScience_Project_ Customer Behavior Analysis
 
 
 Providing a data-based solution to evaluate customer behavior and improve the customer experience for ShopEasy's marketing strategy.
